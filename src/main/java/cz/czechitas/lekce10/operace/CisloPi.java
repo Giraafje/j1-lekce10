@@ -14,6 +14,7 @@ public class CisloPi implements Operace {
 
     @Override
     public void setA(int a) {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
     @Override
@@ -23,6 +24,7 @@ public class CisloPi implements Operace {
 
     @Override
     public void setB(int b) {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 
     @Override
